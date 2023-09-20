@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samet\\source\\repos\\GenericInstnce\\GenericInstnce.csproj": {}
+    "C:\\Users\\samet\\OneDrive\\Belgeler\\GitHub\\GenericInstance\\GenericInstnce\\GenericInstnce.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samet\\source\\repos\\GenericInstnce\\GenericInstnce.csproj": {
+    "C:\\Users\\samet\\OneDrive\\Belgeler\\GitHub\\GenericInstance\\GenericInstnce\\GenericInstnce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samet\\source\\repos\\GenericInstnce\\GenericInstnce.csproj",
+        "projectUniqueName": "C:\\Users\\samet\\OneDrive\\Belgeler\\GitHub\\GenericInstance\\GenericInstnce\\GenericInstnce.csproj",
         "projectName": "GenericInstnce",
-        "projectPath": "C:\\Users\\samet\\source\\repos\\GenericInstnce\\GenericInstnce.csproj",
+        "projectPath": "C:\\Users\\samet\\OneDrive\\Belgeler\\GitHub\\GenericInstance\\GenericInstnce\\GenericInstnce.csproj",
         "packagesPath": "C:\\Users\\samet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samet\\source\\repos\\GenericInstnce\\obj\\",
+        "outputPath": "C:\\Users\\samet\\OneDrive\\Belgeler\\GitHub\\GenericInstance\\GenericInstnce\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\samet\\AppData\\Roaming\\NuGet\\NuGet.Config",

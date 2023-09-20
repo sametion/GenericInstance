@@ -12,3 +12,17 @@ C:\Users\samet\source\repos\GenericInstnce\obj\Debug\net6.0\refint\GenericInstnc
 C:\Users\samet\source\repos\GenericInstnce\obj\Debug\net6.0\GenericInstnce.pdb
 C:\Users\samet\source\repos\GenericInstnce\obj\Debug\net6.0\GenericInstnce.genruntimeconfig.cache
 C:\Users\samet\source\repos\GenericInstnce\obj\Debug\net6.0\ref\GenericInstnce.dll
+C:\Users\samet\OneDrive\Belgeler\GitHub\GenericInstance\GenericInstnce\bin\Debug\net6.0\GenericInstnce.exe
+C:\Users\samet\OneDrive\Belgeler\GitHub\GenericInstance\GenericInstnce\bin\Debug\net6.0\GenericInstnce.deps.json
+C:\Users\samet\OneDrive\Belgeler\GitHub\GenericInstance\GenericInstnce\bin\Debug\net6.0\GenericInstnce.runtimeconfig.json
+C:\Users\samet\OneDrive\Belgeler\GitHub\GenericInstance\GenericInstnce\bin\Debug\net6.0\GenericInstnce.dll
+C:\Users\samet\OneDrive\Belgeler\GitHub\GenericInstance\GenericInstnce\bin\Debug\net6.0\GenericInstnce.pdb
+C:\Users\samet\OneDrive\Belgeler\GitHub\GenericInstance\GenericInstnce\obj\Debug\net6.0\GenericInstnce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\OneDrive\Belgeler\GitHub\GenericInstance\GenericInstnce\obj\Debug\net6.0\GenericInstnce.AssemblyInfoInputs.cache
+C:\Users\samet\OneDrive\Belgeler\GitHub\GenericInstance\GenericInstnce\obj\Debug\net6.0\GenericInstnce.AssemblyInfo.cs
+C:\Users\samet\OneDrive\Belgeler\GitHub\GenericInstance\GenericInstnce\obj\Debug\net6.0\GenericInstnce.csproj.CoreCompileInputs.cache
+C:\Users\samet\OneDrive\Belgeler\GitHub\GenericInstance\GenericInstnce\obj\Debug\net6.0\GenericInstnce.dll
+C:\Users\samet\OneDrive\Belgeler\GitHub\GenericInstance\GenericInstnce\obj\Debug\net6.0\refint\GenericInstnce.dll
+C:\Users\samet\OneDrive\Belgeler\GitHub\GenericInstance\GenericInstnce\obj\Debug\net6.0\GenericInstnce.pdb
+C:\Users\samet\OneDrive\Belgeler\GitHub\GenericInstance\GenericInstnce\obj\Debug\net6.0\GenericInstnce.genruntimeconfig.cache
+C:\Users\samet\OneDrive\Belgeler\GitHub\GenericInstance\GenericInstnce\obj\Debug\net6.0\ref\GenericInstnce.dll

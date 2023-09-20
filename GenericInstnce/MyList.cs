@@ -29,6 +29,11 @@ namespace GenericInstnce
         { 
             get { return _array.Length; }
         }
+        public T[] Values 
+        {
+            get { return _array; }                         //print out 
+               
+        }
 
     }
 }

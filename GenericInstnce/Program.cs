@@ -13,6 +13,11 @@ namespace GenericInstnce
             cities.Add("adana");
 
             Console.WriteLine("ekelemelerden sonra liste boyutu :"+cities.MyCount);
+
+            foreach (var c in cities.Values)            //liste ekrana yazdırılır
+            {
+                Console.WriteLine(c);
+            }
         }
     }
 }
