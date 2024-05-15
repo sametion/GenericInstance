@@ -12,11 +12,11 @@ namespace GenericInstnce
             cities.Add("mersin");
             cities.Add("adana");
 
-            Console.WriteLine("ekelemelerden sonra liste boyutu :"+cities.MyCount);
+            Console.WriteLine("eklemelerden sonra liste boyutu :"+cities.MyCount);
 
-            foreach (var c in cities.Values)            //liste ekrana yazdırılır
+            foreach (var item in cities.Values)            //liste ekrana yazdırılır
             {
-                Console.WriteLine(c);
+                Console.WriteLine(item);
             }
         }
     }
